@@ -1,0 +1,4 @@
+warna website portofolio aku:cyan
+keahlian ku:python,discord bot,web development
+deskripsi tentang aku:
+aku jago di  python aku web development aku discord bot development
